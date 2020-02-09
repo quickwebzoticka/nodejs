@@ -9,4 +9,4 @@ function consoleToJSON() {
   return c
 }
 
-console.log(consoleToJSON())
+console.log(consoleToJSON());
